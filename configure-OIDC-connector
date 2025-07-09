@@ -1,1 +1,2 @@
+export AWS_REGION=ap-south-1
 eksctl utils associate-iam-oidc-provider --cluster demo-cluster --approve
